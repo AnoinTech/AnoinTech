@@ -40,22 +40,22 @@ My goal is to build secure, reliable, and efficient IT environments through prac
 - Command-line troubleshooting
 - IT administration automation
 
-## 📂 Technical Portfolio
+## Technical Portfolio
 
 My portfolio focuses on practical IT support and cybersecurity skills.
 
-### 🐧 Linux Administration & Troubleshooting
+### Linux Administration & Troubleshooting
 Documentation of Linux system administration, user management, permissions, services, and troubleshooting.
 
-### 🔐 Linux Security & Hardening
+### Linux Security & Hardening
 Practical security exercises involving Linux permissions, authentication, SSH security, firewalls, and system logs.
 
-### ⚙️ Scripting & Automation
+### Scripting & Automation
 Scripts and command-line workflows for Linux administration and IT troubleshooting.
 
 *Project repositories and supporting documentation are being organized.*
 
-## 🎯 Professional Focus
+## Professional Focus
 
 - IT Support & Desktop Support
 - Linux Systems Administration
@@ -63,7 +63,7 @@ Scripts and command-line workflows for Linux administration and IT troubleshooti
 - Networking & Infrastructure
 - Scripting & Automation
 
-## 📫 Connect With Me
+## Connect With Me
 
 **GitHub:** https://github.com/AnoinTech
 
