@@ -1,73 +1,38 @@
+# Hi, I'm Anointing Ibeh
 
-# 👋 Hello, I'm Anointing Ibeh
+**IT Support | Systems Administration | Networking | Cybersecurity**
 
-### IT Support Specialist | Cybersecurity | Linux Administration | Networking & Automation
+I'm an IT professional with hands-on experience in technical support and practical labs covering Linux administration, AWS EC2, Cisco networking, network security, and security monitoring. I use this GitHub profile to document technical exercises, troubleshooting approaches, and the evidence available from my work.
 
-Welcome to **AnoinTech**, my professional GitHub portfolio.
+## Technical Skills
 
-I'm an IT professional with 5 years of experience in technical support and IT operations. My technical interests include cybersecurity, Linux system administration, networking, troubleshooting, and automation.
+- **IT & systems:** Technical troubleshooting, Ubuntu Linux, SSH, VMware Workstation, Windows environments
+- **Networking:** IPv4 addressing, LANs, Cisco Packet Tracer, ping and ICMP testing, Wireshark
+- **Cloud:** AWS EC2, Ubuntu instance access, SSH key permissions
+- **Security monitoring:** Suricata, Filebeat, Elasticsearch, Kibana; additional lab exposure to Wazuh and Snort
+- **Security analysis:** Linux `iptables`, ARP traffic inspection, incident-response scenarios, IOC analysis, MITRE ATT&CK
+- **Other tools used in labs:** Nessus, OpenVAS, STIX Viewer, OSINT Framework
 
-My goal is to build secure, reliable, and efficient IT environments through practical troubleshooting, security-focused administration, and continuous learning.
+## Featured Technical Projects
 
-## 🛠️ Technical Skills
+| Project | What it demonstrates |
+| --- | --- |
+| [Linux Administration & Troubleshooting](https://github.com/AnoinTech/linux-administration-troubleshooting) | Linux troubleshooting, permissions, and documented AWS EC2 SSH access |
+| [Cisco Networking Labs](https://github.com/AnoinTech/cisco-networking-labs) | IPv4 addressing, multi-router topologies, connectivity testing, and ICMP simulation |
+| [Security Monitoring & SIEM Labs](https://github.com/AnoinTech/security-monitoring-siem-labs) | Suricata event logs, Filebeat forwarding, Elasticsearch service checks, and Kibana dashboards |
+| [Network Security Labs](https://github.com/AnoinTech/network-security-labs) | `iptables` firewall exercises, Wireshark ARP analysis, and controlled Metasploit coursework |
+| [SOC Incident Response & Threat Intelligence](https://github.com/AnoinTech/soc-incident-response-threat-intelligence) | Academic incident-response case studies, IOC enrichment, and MITRE ATT&CK mapping |
 
-**Operating Systems**
-- Windows and macOS
-- Ubuntu Linux and Kali Linux
-- Linux command-line administration
+## Career Interests
 
-**IT Support & Administration**
-- Hardware and software troubleshooting
-- User account and permission management
-- System configuration and maintenance
-- Technical documentation and end-user support
+I'm interested in opportunities in **IT Support, Desktop Support, Junior Systems Administration, Network Support, and entry-level Cybersecurity / SOC operations**.
 
-**Networking**
-- TCP/IP networking fundamentals
-- DNS and DHCP troubleshooting
-- Network connectivity diagnostics
-- Network security fundamentals
+## About This Portfolio
 
-**Cybersecurity**
-- Linux security fundamentals
-- Access control and file permissions
-- Security log investigation
-- System hardening concepts
-- Incident response fundamentals
+Projects include hands-on labs and retrospective documentation of academic exercises. Some SOC case studies are simulated group coursework, not production incident investigations. Screenshots and supporting artifacts are included where available; tools listed as additional lab exposure may not have dedicated demonstrations yet.
 
-**Scripting & Automation**
-- Linux shell scripting
-- Command-line troubleshooting
-- IT administration automation
+## Connect
 
-## Technical Portfolio
-
-My portfolio focuses on practical IT support and cybersecurity skills.
-
-### Linux Administration & Troubleshooting
-Documentation of Linux system administration, user management, permissions, services, and troubleshooting.
-
-### Linux Security & Hardening
-Practical security exercises involving Linux permissions, authentication, SSH security, firewalls, and system logs.
-
-### Scripting & Automation
-Scripts and command-line workflows for Linux administration and IT troubleshooting.
-
-*Project repositories and supporting documentation are being organized.*
-
-## Professional Focus
-
-- IT Support & Desktop Support
-- Linux Systems Administration
-- Cybersecurity & Security Operations
-- Networking & Infrastructure
-- Scripting & Automation
-
-## Connect With Me
-
-**GitHub:** https://github.com/AnoinTech
-
----
-
-*Committed to reliable IT support, secure systems, and continuous technical development.*
-
+- **GitHub:** [@AnoinTech](https://github.com/AnoinTech)
+- **LinkedIn:** https://www.linkedin.com/in/anointing-onyebuchi-ibeh
+  
